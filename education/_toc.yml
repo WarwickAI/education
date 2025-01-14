@@ -12,3 +12,4 @@ parts:
     - file: wai102/nn
     - file: wai102/gradients
     - file: wai102/backpropagation
+  - file: test
