@@ -12,4 +12,12 @@ parts:
     - file: wai102/nn
     - file: wai102/gradients
     - file: wai102/backpropagation
-  - file: test
+  - file: computervision/overview
+    sections:
+    - file: computervision/section1
+  - file: pytorch/overview
+    sections:
+    - file: pytorch/section1
+  - file: reinforcementlearning/overview
+    sections:
+    - file: reinforcementlearning/section1
